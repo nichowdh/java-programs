@@ -1,0 +1,9 @@
+1. WAP to input an array having 5 strings and display them.
+
+2. WAP to input an array having 3 rows and 3 columns of type String.
+
+3. Implement switch case in the above enum example where a single value of object m is checked against all the cases of the switch case. Based on the value of m, the particular case should be executed.
+
+4.Write a program to define a class Item containing code and price. Accept this data for five objects using array of objects. Display code, price in tabular form and also, display total price of all items.
+
+5.Write a program to accept value of apple sales for each day of the week (using array of type float) and then, calculate the average sale of the week.
