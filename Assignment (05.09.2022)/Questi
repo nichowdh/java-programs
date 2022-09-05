@@ -1,0 +1,16 @@
+1. WAP to input the salary of an employee and if the salary is not in the range of 10,000 to 20,000 an invalid salary exception should be thrown.
+2. Define an exception called “NoMatchFoundException” that is thrown when a string is not equal to “University”. Write a program that uses this exception.
+
+3. Create two user-defined exceptions named “TooHot” and “TooCold” to check the temperature (in Celsius) given by the user passed is too hot or too cold.
+If temperature > 35, throw exception “TooHot”.
+ If temperature <5, throw exception “TooCold”.
+Otherwise, print “Normal” and convert it to Farenheit.
+
+4. Write a Java Program to Create Account with 500 Rs Minimum Balance.
+
+Create  a Class Called LessBalanceException Which returns the Statement that Says WithDraw Amount(_Rs) is Not Valid if the amount withdrawn is more than the balance.
+
+5. Consider a Quiz Management System, where a user needs to answer 5 questions. 
+
+If any of the answer is wrong, throw an exception “NotCorrectException”. 
+If the answer is correct give a message “good! The answer is correct”.
