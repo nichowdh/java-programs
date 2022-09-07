@@ -1,0 +1,5 @@
+1. create a junit test case for finding the maximum value in an array.
+
+2. Create a class having student details like name,marks in 3 subjects and a percentage variable,
+
+create a student business logic which should return the percentage of three subjects, and then test the business logic using junit.
