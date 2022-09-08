@@ -1,0 +1,7 @@
+1. Create a test case for prime number which should be tested against atleast 5 values using parameterised test.
+
+2. Write a java program to input an array and search an element using binary search
+
+3.Write a java program to print transpose of a matrix
+
+4. write a java program to input an array and use  a method which is having the array and the searched element in argument.Search the element using binary search and if element is found return true otherwise return false.
