@@ -1,0 +1,12 @@
+1. WAP to input a string and reverse it without using any inbuilt method.
+
+2. Write a program to accept a password from the user and throw 'Authentication Failure' exception if the password is incorrect.
+
+3. Write a program to throw a user-defined exception "String Mismatch Exception", if two strings are not equal (ignore the case).
+
+4. write a java program to remove the characters at even indexes and then print the new string without using any method for removing
+
+5. Write a program to delete all consonents from the string "Hello, have a good day".
+
+6. Input a string of alphabets. Find out the number of occurrence of all alphabets in that string. Find out the alphabet with maximum occurrence.
+Hint:You can use an array of length 26 to store the number of occurance of each character in the elements of the array.
