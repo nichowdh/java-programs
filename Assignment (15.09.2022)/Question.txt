@@ -1,0 +1,4 @@
+1. Write a program to find the first and the last occurence of the letter 'o'  in "Hello World".
+2. Write a Java Program to Search a Particular Word in a String.
+
+3. Write a Java Program to Delete All Repeated Words in String.
