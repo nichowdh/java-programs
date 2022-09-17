@@ -1,0 +1,7 @@
+1. WAP to print vowels from a text file.
+
+2. WAP to read the data from two files and write it into another file
+
+3. WAP to count the number of letters in a file
+
+4. WAP to search for a particular letter in a file and then replace it with some other letter
